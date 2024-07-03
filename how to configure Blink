@@ -1,0 +1,10 @@
+How to Configure Blynk for Home Automation?
+Download the Blynk app from the App Store or Google Play Store and create an account.
+Create a new project by clicking the “🔧” icon in the top-right corner of the screen.
+Choose the hardware device you will be using (e.g. Arduino, Raspberry Pi, etc.) and the connection type (e.g. Wi-Fi, Bluetooth, etc.).
+Check your email for the auth token that was automatically generated and sent to you by Blynk. Copy the auth token (in the email, look for the hyperlink as “here”) and save it for later usage.
+In the Blynk app, again by clicking
+After creating the project, you will be directed to the main screen where you can start designing your app’s user interface.
+Click the “+” icon in the top-right corner of the screen to add a new widget.
+Choose the type of widget you want to add to your app (e.g. button, slider, gauge, etc.).
+Customize the widget’s properties, such as the label, color, and pin assignment. For Detailed Configuration settings, check details https://youtu.be/cUrlb8NljC4
